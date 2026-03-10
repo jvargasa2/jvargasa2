@@ -1,47 +1,62 @@
-# 👋 Hola, soy Amadeus Joshua Vargas Aguilar
+# 👋 Hello, I'm Amadeus Joshua Vargas Aguilar
 
-🎓 **Estudiante de Estadística** interesado en la ciencia de datos, la inteligencia artificial y el desarrollo tecnológico.
-
-Me apasiona aprender y desarrollar proyectos que combinen **análisis de datos, programación y tecnología** para resolver problemas reales.
-
----
-
-## 🚀 Intereses
-
-* 🤖 Inteligencia Artificial
-* 📊 Ciencia de Datos y Estadística
-* 🧠 Programación y resolución de problemas
-* 🌐 Desarrollo Web
-* 🔗 Tecnologías emergentes
+🎓 **Statistics Student** with a strong interest in **Data Science, Artificial Intelligence, and Web Development**.
+I enjoy building projects that combine **data analysis, programming, and modern technologies** to solve real-world problems.
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🚀 About Me
+
+I am passionate about learning and applying technology to create innovative solutions.
+My academic background in **statistics** allows me to approach problems with analytical thinking while my programming skills help me transform ideas into practical applications.
+
+I am particularly interested in projects that integrate:
+
+* Data analysis and statistical modeling
+* Artificial intelligence and machine learning
+* Web technologies and digital tools
+* Innovative and emerging technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data
 
 * Python
-* Git & GitHub
-* HTML
-* CSS
-* Bootstrap
+* Statistical Analysis
+* Data Analysis
+
+### Web Development
+
+* **HTML5**
+* **CSS**
+* **Bootstrap**
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently Learning
 
 * Machine Learning
-* Desarrollo de proyectos con datos
-* Buenas prácticas de programación
-* Control de versiones con Git
+* Advanced Data Analysis
+* Software Development Best Practices
+* Scalable Web Applications
 
 ---
 
-## 📈 Objetivo
+## 🎯 Goals
 
-Construir proyectos que integren **estadística, programación y análisis de datos** para generar soluciones tecnológicas innovadoras.
+My goal is to develop **technological solutions that integrate statistics, programming, and data-driven decision making**, contributing to innovative projects in **data science, artificial intelligence, and web development**.
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect With Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/amadeus-joshua-vargas-aguilar-067b08359
@@ -51,7 +66,8 @@ https://github.com/jvargasa2
 
 ---
 
-⭐ *Siempre abierto a aprender, colaborar y desarrollar nuevos proyectos.*
+⭐ *Always open to learning, collaboration, and building impactful technology projects.*
+
 
 <!--
 **jvargasa2/jvargasa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
