@@ -1,21 +1,21 @@
 # 👋 Hello, I'm Amadeus Joshua Vargas Aguilar
 
 🎓 **Statistics Student** with a strong interest in **Data Science, Artificial Intelligence, and Web Development**.
-I enjoy building projects that combine **data analysis, programming, and modern technologies** to solve real-world problems.
+I enjoy developing projects that combine **data analysis, programming, and modern technologies** to solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
 I am passionate about learning and applying technology to create innovative solutions.
-My academic background in **statistics** allows me to approach problems with analytical thinking while my programming skills help me transform ideas into practical applications.
+My academic background in **Statistics** allows me to approach problems with strong analytical thinking, while my programming and technical skills help transform ideas into practical applications.
 
 I am particularly interested in projects that integrate:
 
 * Data analysis and statistical modeling
 * Artificial intelligence and machine learning
 * Web technologies and digital tools
-* Innovative and emerging technologies
+* Emerging and innovative technologies
 
 ---
 
@@ -24,6 +24,9 @@ I am particularly interested in projects that integrate:
 ### Programming & Data
 
 * Python
+* **R**
+* **SPSS**
+* **Stata**
 * Statistical Analysis
 * Data Analysis
 
@@ -45,6 +48,7 @@ I am particularly interested in projects that integrate:
 
 * Machine Learning
 * Advanced Data Analysis
+* **Power BI**
 * Software Development Best Practices
 * Scalable Web Applications
 
