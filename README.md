@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Amadeus Joshua Vargas Aguilar
-
+# 👋 Hello, I'm Amadeus Joshua Vargas Aguilar 
+📍 Bolivia 🇧🇴
 🎓 **Statistics Student** with a strong interest in **Data Science, Artificial Intelligence, and Web Development**.  
 I enjoy developing projects that combine **data analysis, programming, and modern technologies** to solve real-world problems.
 
